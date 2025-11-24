@@ -13,16 +13,16 @@ const data = {
         'Guides student founders and faculty innovators across Kerala Startup Mission initiatives, from early ideation to investor showcases.',
     },
     {
-      title: 'Startup Weekends',
-      detail: 'Professional Organizer, Techstars Startup Weekend',
+      title: 'IEEE Kerala Leadership',
+      detail: 'Vice Chair, IEEE Computer Society Kerala Chapter',
       description:
-        'Shapes 54-hour build experiences that help multidisciplinary teams pitch, validate, and demo product ideas with industry mentors.',
+        'Designs statewide professional development roadmaps and hackathons that empower 5K+ members and faculty advisors across Kerala’s campuses.',
     },
     {
-      title: 'KSRTC Rail Rolls',
-      detail: 'Mentor & ecosystem connector',
+      title: 'GTech μLearn Community',
+      detail: 'Lead Enabler, μLearn',
       description:
-        'Supported the team that transformed a travel dining idea into a statewide pilot welcomed by public transport riders.',
+        'Architects peer-learning challenges and innovation quests that connect Kerala’s student makers with mentors, startup missions, and AI-first opportunities.',
     },
     {
       title: 'Community Reach',
@@ -34,9 +34,9 @@ const data = {
   projects: [
     {
       title: 'SJCET Palai WordPress Presence',
-      role: 'Full-stack WordPress Developer',
+      role: 'WordPress Developer',
       description:
-        'Leads the public-facing sjcetpalai.ac.in experience with custom theming, CMS governance, and community storytelling for the college.',
+        'Leads the public-facing sjcetpalai.ac.in digital experience through custom theming, CMS governance, and impactful community storytelling for the college.',
       link: 'https://sjcetpalai.ac.in',
     },
     {
@@ -57,15 +57,22 @@ const data = {
       title: 'Admissions Automation Suite',
       role: 'Platform architect',
       description:
-        'Owns admission.sjcetpalai.ac.in, streamlining multi-step intake, preference capture, and communications for thousands of applicants.',
+        'Builds admission.sjcetpalai.ac.in, streamlining multi-step intake, preference capture, and communications for thousands of applicants.',
       link: 'https://admission.sjcetpalai.ac.in/',
     },
     {
       title: 'SJCET Repository Portal',
-      role: 'Systems integrator',
+      role: 'Software designer & Developer',
       description:
-        'Manages repo.sjcetpalai.ac.in/login to give students and faculty authenticated access to institutional knowledge bases and resources.',
+        'repo.sjcetpalai.ac.in leads the Paperless Campus initiative — a project built to significantly reduce paper usage by providing a digital repository that enables efficient storage and retrieval of faculty course files with secure, authenticated access.',
       link: 'https://repo.sjcetpalai.ac.in/login',
+    },
+    {
+      title: 'NBA CO Attainment Toolkit',
+      role: 'Excel macro engineer',
+      description:
+        'Ships a VBA-powered workbook that lets faculty compute CO-PO attainment in minutes, complete with reusable templates and automated reporting.',
+      link: 'https://github.com/sarjus/NBA-CO-Attainment',
     },
   ],
   experience: [
@@ -153,14 +160,29 @@ const data = {
         'Curates facilitators, mentors, and judges to help weekend founders deliver investment-ready demos.',
     },
     {
-      title: 'Hash Code Hub Coordinator',
-      org: 'Google',
-      period: 'Jan 2020 — Feb 2020',
+      title: 'GitHub Campus Advisor',
+      org: 'GitHub Education',
+      period: 'Se 2020 — Present',
       description:
-        'Hosted Google Hash Code hub at SJCET, giving regional engineers access to global programming challenge infrastructure.',
+        'Helps institutions adopt GitHub Classroom, Actions, and Codespaces with best practices.',
     },
   ],
   awards: [
+    {
+      title: '2 Million+ Karma Achiever -Institutional Category',
+      issuer: 'GTECH μLearn',
+      year: 'Mar 2025',
+    },
+    {
+      title: 'Top Lead Enabler 2024',
+      issuer: 'GTECH μLearn',
+      year: 'Mar 2025',
+    },
+     {
+      title: '1 Million+ Karma Achiever -Institutional Category',
+      issuer: 'GTECH μLearn',
+      year: 'Mar 2024',
+    },
     {
       title: 'Top 5 Karma — Enabler Category',
       issuer: 'GTECH μLearn',
@@ -174,7 +196,7 @@ const data = {
     {
       title: 'Smart India Hackathon — Winners & Inspiration Awards',
       issuer: 'MHRD, AICTE',
-      year: '2018 — 2019',
+      year: '2018,2019',
     },
     {
       title: 'Entrepreneurship Enabler Award',
