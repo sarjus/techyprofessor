@@ -54,6 +54,13 @@ const data = {
       link: 'https://cselms.sjcetpalai.ac.in',
     },
     {
+      title: 'SIIF Incubator Platform',
+      role: 'Platform architect & DevOps builder',
+      description:
+        'Built and maintains siifincubator.org on a VPS with Coolify-based deployment and a self-hosted Supabase stack for scalable data, auth, and backend workflows.',
+      link: 'https://siifincubator.org/',
+    },
+    {
       title: 'Admissions Automation Suite',
       role: 'Platform architect',
       description:
