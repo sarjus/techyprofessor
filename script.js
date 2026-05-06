@@ -77,6 +77,15 @@ const data = {
   ],
   experience: [
     {
+      role: 'CEO, SJCET Innovation and Incubation Foundation (SIIF) Incubator',
+      org: 'SJCET Innovation and Incubation Foundation (SIIF)',
+      period: 'Present',
+      highlights: [
+        'Leads the institutional incubator strategy, founder support systems, and innovation partnerships.',
+        'Builds pathways for student ventures from ideation to incubation, validation, and growth.',
+      ],
+    },
+    {
       role: 'Computer Science Professor & Innovation Lead',
       org: "St. Joseph's College of Engineering and Technology, Palai",
       period: '2009 — Present',
